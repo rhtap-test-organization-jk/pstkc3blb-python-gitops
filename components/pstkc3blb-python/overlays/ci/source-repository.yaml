@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pstkc3blb-python-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/pstkc3blb-python
